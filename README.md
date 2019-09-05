@@ -1,22 +1,23 @@
 # Nimbo Search Engine
 
 ### Dependencies
-ubuntu 16.04, java
-read pom.xml
+ubuntu 16.04<br/>
+java<br/>
+anything in pom.xml
 
 ### creating executable jar
 mvn clean install
 
 ### Executing program
-java -jar target/***crawler***.jar
+java -jar target/Crawler-1.0-SNAPSHOT-jar-with-dependencies.jar
 ### Sending query
 ./searchUI.sh
 
 ## Authors
-Ahmad535353
-TheLastBit
-iamiranjbar
-QotbodiniH
-khoshraftar
-Su6lime
-amirphl		amirphl4@gmail.com
+Ahmad535353<br/>
+TheLastBit<br/>
+iamiranjbar<br/>
+QotbodiniH<br/>
+khoshraftar<br/>
+Su6lime<br/>
+amirphl
