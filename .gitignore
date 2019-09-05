@@ -1,0 +1,9 @@
+# Data And Logs Files
+Logs
+Data
+# target and resources
+src/test/
+target/
+Crawler.iml
+.idea
+/Crawler.iml

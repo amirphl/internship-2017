@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.kafka.clients.consumer.KafkaConsumer'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
