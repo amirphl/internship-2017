@@ -9,9 +9,10 @@ anything in pom.xml
 mvn clean install
 
 ### Executing program
-java -jar target/Crawler-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar target/Crawler-1.0-SNAPSHOT-jar-with-dependencies.jar</br>
+java -jar Crawler.jar
 ### Sending query
-./searchUI.sh
+./search.sh
 
 ## Authors
 Ahmad535353<br/>
