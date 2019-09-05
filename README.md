@@ -1,5 +1,4 @@
-# Project Title
-Nimbo Search Engine
+# Nimbo Search Engine
 
 ### Dependencies
 ubuntu 16.04, java
@@ -10,6 +9,7 @@ mvn clean install
 
 ### Executing program
 java -jar target/***crawler***.jar
+### Sending query
 ./searchUI.sh
 
 ## Authors
